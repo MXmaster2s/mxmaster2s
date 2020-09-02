@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SOUNDCLOUD"
-          feed_list: "https://feeds.soundcloud.com/users/soundcloud:users:864574018/sounds.rss"
+          feed_list: "https://api.soundcloud.com/tracks/757682125"
