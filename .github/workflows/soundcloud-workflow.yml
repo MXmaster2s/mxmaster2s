@@ -1,0 +1,17 @@
+name: Latest soundcloud workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest podcasts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SOUNDCLOUD"
+          feed_list: "https://feeds.soundcloud.com/users/soundcloud:users:864574018/sounds.rss"
