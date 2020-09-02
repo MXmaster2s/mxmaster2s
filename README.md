@@ -41,8 +41,9 @@
 ---
 
 ### 🥅 My Latest Podcast
-<!-- SOUNDCLOUD:START -->
-<!-- SOUNDCLOUD:END -->
+- [Blockchain noodles Introduction](https://soundcloud.com/blockchain-noodles)
+- [coming soon: Talking with CryptionStudios]()
+
 <br />
 
 ---
