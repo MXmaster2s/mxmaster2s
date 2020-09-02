@@ -56,9 +56,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
@@ -68,14 +65,9 @@
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
+---
 
   <img align="left" alt="MxMaster2s Github Stats" src="https://github-readme-stats.MxMaster2s.vercel.app/api?username=MXmaster2s&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://www.instagram.com/rohit.kundliwal/
 [linkedin]: https://www.linkedin.com/in/rohitkundliwal/M
