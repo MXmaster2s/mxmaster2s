@@ -1,9 +1,5 @@
 ### Hi there, I'm Rohit - aka MxMaster2s 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MXmaster2s?label=MxMaster2s&style=social)](https://twitter.com/MXmaster2s)
-[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 ## I'm a Guitarist, Singer, Blockchain Developer and a Blogger!
 
 - 🔭 I’m currently working on a [DeFi Exchange][DefiRepo]!
@@ -11,6 +7,12 @@
 - 👯 I’m looking to collaborate in open source projects 
 - 🥅 2020 Goals: Grow my first Ant Colony
 - ⚡ Fun fact: I love deep mysterious philosophical discussions 
+
+### Connect with me!! 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/MXmaster2s?label=MxMaster2s&style=social)](https://twitter.com/MXmaster2s)
+[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### I am also making podcasts 🎧
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872490091&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blockchain-noodles" title="Blockchain Noodles" target="_blank" style="color: #cccccc; text-decoration: none;">Blockchain Noodles</a> · <a href="https://soundcloud.com/blockchain-noodles/the-introduction" title="E1 - The Introduction" target="_blank" style="color: #cccccc; text-decoration: none;">E1 - The Introduction</a></div>
