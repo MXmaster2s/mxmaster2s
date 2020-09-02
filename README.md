@@ -43,6 +43,11 @@
 
 # 🥅 My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top consensus algorithms to know in blockchain](https://dev.to/mxmaster2s/top-consensus-algorithms-to-know-in-blockchain-5bf8)
+- [Quick Guide to Different Types of Function in Solidity](https://dev.to/mxmaster2s/quick-guide-to-different-types-of-function-in-solidity-1i43)
+- [Quick Guide to the "Checks Effect Interactions" Pattern to Remember when writing your Smart Contracts!](https://dev.to/mxmaster2s/quick-guide-to-the-checks-effect-interactions-pattern-to-remember-when-writing-your-smart-contracts-gfk)
+- [Don't know anything about software development but want to learn Blockchain Development? Here's what to do:](https://dev.to/mxmaster2s/don-t-know-anything-about-software-development-but-want-to-learn-blockchain-development-here-s-what-to-do-2gfm)
+- [Connect OnePlus Bullet Wireless Z Bluetooth earphones to Ubuntu 16.04 / Linux](https://dev.to/mxmaster2s/connect-oneplus-bullet-wireless-z-bluetooth-earphones-to-ubuntu-16-04-linux-4dgp)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
