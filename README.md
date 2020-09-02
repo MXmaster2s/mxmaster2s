@@ -41,7 +41,14 @@
 <br />
 ---
 
-# 🥅 My Latest Blog posts
+### 🥅 My Latest Podcast
+<!-- SOUNDCLOUD:START -->
+<!-- SOUNDCLOUD:END -->
+<br />
+
+---
+
+### 🥅 My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Top consensus algorithms to know in blockchain](https://dev.to/mxmaster2s/top-consensus-algorithms-to-know-in-blockchain-5bf8)
 - [Quick Guide to Different Types of Function in Solidity](https://dev.to/mxmaster2s/quick-guide-to-different-types-of-function-in-solidity-1i43)
