@@ -73,7 +73,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="MxMaster2s Github Stats" src="https://github-readme-stats.MxMaster2s.vercel.app/api?username=MxMaster2s&show_icons=true&hide_border=true" />
+  <img align="left" alt="MxMaster2s Github Stats" src="https://github-readme-stats.MxMaster2s.vercel.app/api?username=MXmaster2s&show_icons=true&hide_border=true" />
 
 </details>
 
