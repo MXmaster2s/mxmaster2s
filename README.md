@@ -41,10 +41,10 @@
 <br />
 ---
 
-# Blog posts
+# 🥅 My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+<br />
 
 ---
 
