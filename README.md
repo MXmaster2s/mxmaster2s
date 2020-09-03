@@ -75,7 +75,7 @@
 
 ---
 
-  <img align="left" alt="MXmaster2s Github Stats" src="https://github-readme-stats.mxmaster2s.vercel.app/api?username=mxmaster2s&show_icons=true&hide_border=true" />
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=mxmaster2s)](https://github.com/mxmaster2s/github-readme-stats)
 
 <!-- My social links -->
 [instagram]: https://www.instagram.com/rohit.kundliwal/
