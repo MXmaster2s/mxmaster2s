@@ -78,7 +78,11 @@
 <a href="https://github.com/mxmaster2s/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxmaster2s&theme=radical&show_icons=true" />
 </a>
+<a href="https://github.com/mxmaster2s/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxmaster2s&hide=html" />
+</a>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmaster2s&hide=html)]() -->
   <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=mxmaster2s&theme=radical&show_icons=true)](https://github.com/mxmaster2s/github-readme-stats) -->
 
 <!-- My social links -->
