@@ -63,7 +63,7 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
----
+<!-- ---
 
 <details>
   <summary>:zap: My Recent Github Activity</summary>
@@ -71,7 +71,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> --> -->
 
 ---
 
@@ -79,7 +79,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxmaster2s&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/mxmaster2s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxmaster2s&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxmaster2s&hide=html,shell" />
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmaster2s&hide=html)]() -->
