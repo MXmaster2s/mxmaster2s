@@ -21,23 +21,23 @@
 
 ### languages and tools i like to use
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="NodeJs" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Ethereum" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/ethereum-282321.png" />](https://ethereum.org/en/)
-[<img align="left" alt="Hyperledger Fabric" width="26px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1493701906/jwsxmtgk1rsjo9yp61ik.png" />](https://www.hyperledger.org/use/fabric)
-[<img align="left" alt="TypeScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />](https://www.typescriptlang.org/)
-<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]() -->
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]() -->
-<!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]() -->
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-<!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]() -->
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Linux" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" />](https://en.wikipedia.org/wiki/Linux)
-[<img align="left" alt="Adobe Xd" width="26px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/xd-file-3-680494.png" />](https://www.adobe.com/in/products/xd.html)
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="NodeJs" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Ethereum" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ethereum-282321.png" />](https://ethereum.org/en/)
+[<img align="left" alt="Hyperledger Fabric" width="40px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1493701906/jwsxmtgk1rsjo9yp61ik.png" />](https://www.hyperledger.org/use/fabric)
+[<img align="left" alt="TypeScript" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />](https://www.typescriptlang.org/)
+<!-- [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
+<!-- [<img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]() -->
+<!-- [<img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]() -->
+<!-- [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]() -->
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
+<!-- [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]() -->
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Linux" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" />](https://en.wikipedia.org/wiki/Linux)
+[<img align="left" alt="Adobe Xd" width="40px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/xd-file-3-680494.png" />](https://www.adobe.com/in/products/xd.html)
 
 <br />
 
