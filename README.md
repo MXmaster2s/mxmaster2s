@@ -10,11 +10,11 @@
 
 ### Connect with me!! 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MXmaster2s?label=MxMaster2s&style=social)](https://twitter.com/MXmaster2s)
-[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://img.favpng.com/5/0/1/telegram-logo-computer-icons-png-favpng-EDAutZn5kb5zQ1mEzeeUmBzJY.jpg" />][telegram]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://i.pinimg.com/originals/91/9d/f0/919df067a8fbd22ce7b6f401b7688b35.png" />][whatsapp]
+[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-circle-1868976-1583140.png" />][linkedin]
+[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-52-151106.png" />][instagram]
+[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1754812-1490132.png" />][telegram]
+[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />][twitter]
+[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-2038531-1718516.png" />][whatsapp]
 
 <br />
 
@@ -67,3 +67,4 @@
 [DefiRepo]: https://github.com/MXmaster2s/DeFi_Exchange
 [whatsapp]: https://drive.google.com/file/d/18gv_meUz_nw9Rr-8OBUE3BXBKx6_2vVr/view?usp=sharing
 [telegram]: https://t.me/MXmaster2s
+[twitter]: https://twitter.com/MXmaster2s
