@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [DeFi Exchange][DefiRepo]!
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate in open source projects 
-- 🥅 2020 Goals: Grow my first Ant Colony
+- 🥅 2020 Goals: Better Github stats!
 - ⚡ Fun fact: I love deep mysterious philosophical discussions 
 
 ### connect with me!! 
@@ -75,7 +75,11 @@
 
 ---
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=mxmaster2s)](https://github.com/mxmaster2s/github-readme-stats)
+<a href="https://github.com/mxmaster2s/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxmaster2s&theme=radical&show_icons=true" />
+</a>
+
+  <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=mxmaster2s&theme=radical&show_icons=true)](https://github.com/mxmaster2s/github-readme-stats) -->
 
 <!-- My social links -->
 [instagram]: https://www.instagram.com/rohit.kundliwal/
