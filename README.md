@@ -44,7 +44,7 @@
 
 ---
 
-### 🎧 i am also trying singing and podcasts
+### 🎧 i am also learning to sing and make podcasts
 - [E1 - Blockchain Noodles Introduction](https://soundcloud.com/blockchain-noodles)
 - [E2 - Coming Soon: Talking with CryptionStudios Founder]()
 - [Listen to My Soundcloud Music][soundcloud]
