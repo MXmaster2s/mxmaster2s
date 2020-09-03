@@ -39,6 +39,7 @@
 [<img align="left" alt="Linux" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" />](https://en.wikipedia.org/wiki/Linux)
 [<img align="left" alt="Adobe Xd" width="40px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/xd-file-3-680494.png" />](https://www.adobe.com/in/products/xd.html)
 
+
 <br />
 
 ---
@@ -72,12 +73,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: My Github Stats</summary>
+---
 
   <img align="left" alt="MXmaster2s Github Stats" src="https://github-readme-stats.mxmaster2s.vercel.app/api?username=mxmaster2s&show_icons=true&hide_border=true" />
-
-</details>
 
 <!-- My social links -->
 [instagram]: https://www.instagram.com/rohit.kundliwal/
