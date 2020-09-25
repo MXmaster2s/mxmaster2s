@@ -8,15 +8,6 @@
 - 🥅 2020 Goals: Better Github stats!
 - ⚡ Fun fact: I love deep mysterious philosophical discussions 
 
-### connect with me!! 
-
-[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-circle-1868976-1583140.png" />][linkedin]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-52-151106.png" />][instagram]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1754812-1490132.png" />][telegram]
-[<img align="left" alt="MxMaster2s | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />][twitter]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-2038531-1718516.png" />][whatsapp]
-[<img align="left" alt="MxMaster2s | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-26-498424.png" />][soundcloud]
-
 <br />
 
 ### languages and tools i like to use
