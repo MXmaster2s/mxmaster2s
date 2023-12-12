@@ -1,6 +1,6 @@
 ### Hi there, i'm rohit - aka MxMaster2s 👋
 
-## i'm a fullstack blockchain senior developer at WalletX!
+## i'm not a blockchain developer
 
 <br />
 
