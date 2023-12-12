@@ -1,12 +1,6 @@
 ### Hi there, i'm rohit - aka MxMaster2s 👋
 
-## i'm a full-time blockchain developer and a part time guitarist, singer and blogger!
-
-- 🔭 I’m currently working on a [DeFi Exchange][DefiRepo]!
-- 🌱 I’m currently learning MongoDB
-- 👯 I’m looking to collaborate in open source projects 
-- 🥅 2020 Goals: Better Github stats!
-- ⚡ Fun fact: I love deep mysterious philosophical discussions 
+## i'm a fullstack blockchain senior developer at WalletX!
 
 <br />
 
@@ -24,16 +18,6 @@
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/linux-9-202419.png" />](https://en.wikipedia.org/wiki/Linux)
 [<img align="left" alt="Adobe Xd" width="40px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/xd-file-3-680494.png" />](https://www.adobe.com/in/products/xd.html)
-
-
-<br />
-
----
-
-### 🎧 i am also learning to sing and make podcasts
-- [E1 - Blockchain Noodles Introduction](https://soundcloud.com/blockchain-noodles)
-- [E2 - Coming Soon: Talking with CryptionStudios Founder]()
-- [Listen to My Soundcloud Music][soundcloud]
 
 <br />
 
